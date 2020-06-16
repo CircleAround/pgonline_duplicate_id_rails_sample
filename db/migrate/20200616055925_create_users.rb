@@ -1,7 +1,7 @@
 class CreateUsers < ActiveRecord::Migration[6.0]
   def change
     create_table :users do |t|
-      t.integer :number, index: {unique: true}
+      t.integer :number
       t.string :name
 
       t.timestamps
