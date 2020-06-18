@@ -4,5 +4,5 @@
 [学習者の方の質問を募集しています！](https://forms.gle/aDw85bVsuJ7RPD2PA)
 
 # コードについて
-最初のコード: https://github.com/CircleAround/pgonline_duplicate_id_rails_sample 
-修正部分のPR: https://github.com/CircleAround/pgonline_duplicate_id_rails_sample/pull/1
+- 最初のコード: https://github.com/CircleAround/pgonline_duplicate_id_rails_sample 
+- 修正部分のPR: https://github.com/CircleAround/pgonline_duplicate_id_rails_sample/pull/1
